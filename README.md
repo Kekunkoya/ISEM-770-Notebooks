@@ -7,11 +7,13 @@ The goal is to understand, compare, and evaluate how each model handles RAG pipe
 
 ---
 ## Contents
+
 RAG_OpenAI.ipynb – End-to-end RAG pipeline using OpenAI embeddings and chat models.
 RAG_Gemini.ipynb – RAG implementation with Google Gemini embeddings and text generation.
 RAG_Comparison.ipynb – Side-by-side evaluation of OpenAI vs Gemini responses with quality metrics (BERTScore, cosine similarity).
 data/ – Example PDF and JSON datasets used for retrieval.
 utils/ – Helper functions for text chunking, embedding creation, retrieval, and evaluation.
+
 ---
 ##How to Run
 Install dependencies:
