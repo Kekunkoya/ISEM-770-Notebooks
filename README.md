@@ -15,7 +15,7 @@ data/ – Example PDF and JSON datasets used for retrieval.
 utils/ – Helper functions for text chunking, embedding creation, retrieval, and evaluation.
 
 ---
-##How to Run
+## How to Run
 Install dependencies:
 pip install -r requirements.txt
 Set up API keys as environment variables:
@@ -29,8 +29,8 @@ PDF ingestion & chunking for efficient retrieval
 Separate vector stores for OpenAI and Gemini embeddings
 Multiple evaluation metrics to assess answer quality
 
-
-##Purpose
+---
+## Purpose
 These notebooks are designed for:
 Learning how to set up a RAG pipeline
 Understanding differences between OpenAI and Gemini in retrieval tasks
